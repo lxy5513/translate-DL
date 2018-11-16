@@ -3,4 +3,7 @@
 ## 大的目标：
 `Deep Learning`
 
+## 翻译目录：
+`faster rcnn`
+
  
