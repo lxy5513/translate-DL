@@ -1,3 +1,3 @@
 git add .
-git comment -m 'add'
+git commit -m 'add'
 git push origin master
