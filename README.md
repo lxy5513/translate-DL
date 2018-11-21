@@ -4,6 +4,7 @@
 `Deep Learning`
 
 ## 翻译目录：
-`faster rcnn`
-
+`fast rcnn`
+`faster rcnn`  
+`mask rcnn`
  
